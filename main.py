@@ -2,7 +2,7 @@ import os
 import re
 from fnmatch import fnmatch
 
-root = ''
+root = 'C:/Location/to/folder/with/scripts'
 pattern = "*"
 
 scriptPaths = []
