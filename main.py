@@ -2,7 +2,7 @@ import os
 import re
 from fnmatch import fnmatch
 
-root = 'C:/Users/matth/Desktop/vpk/VPK MP/scripts/vscripts'
+root = ''
 pattern = "*"
 
 scriptPaths = []
